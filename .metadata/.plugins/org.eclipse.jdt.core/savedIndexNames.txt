@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\edgar\Desktop\livecoding6\.metadata\.plugins\org.eclipse.jdt.core
+3758481927.index
+1865797976.index
+3413725848.index
